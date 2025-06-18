@@ -26,7 +26,7 @@ pip install termcolor
 ## ▶️ Usage
 
 ```bash
-python port_scanner.py
+python portscanner.py
 ```
 
 Then follow the prompts:
